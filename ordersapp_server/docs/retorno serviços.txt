@@ -1,0 +1,13 @@
+/refeicoes
+
+Refeicao: {
+    "idtipos_refeicoes": 5, --> (int) ID tipo refeição
+    "nometipo": "Carboidratos", --> (text 255) Nome do tipo refeição
+    "idrefeicoes": 1,  --> (int) ID refeição
+    "nome": "Arroz", --> (text 255) Nome
+    "preco": "3.00", --> (decimal 8,2) Preço
+    "imagem": "uploads/no-pic.jpg", --> (text 255) Imagem
+    "ativa": 1, --> (boolean) Está ativa?
+    "descricao": "Arroizão branco do goiás", --> (text) Descrição
+    "tipos_refeicoes_idtipos_refeicoes": 5 --> (int) FK tabela tipos_refeicoes
+}

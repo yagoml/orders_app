@@ -1,0 +1,89 @@
+{
+    "categories": [
+        {
+            "name": "Açaí",
+            "description": "7 adicionais grátis",
+            "productTypes": [
+                {
+                    "name": "Açaí no copo",
+                    "sizes": [
+                        {
+                            "name": "Pequeno - 300ml",
+                            "price": 10.00
+                        },
+                        {
+                            "name": "Médio - 500ml",
+                            "price": 15.00
+                        },
+                        {
+                            "name": "Grande - 700ml",
+                            "price": 20.00
+                        },
+                        {
+                            "name": "Monster - 1 Litro",
+                            "price": 27.00
+                        },
+                        {
+                            "name": "Barca - 600ml",
+                            "price": 22.00
+                        }
+                    ],
+                    "extras": [
+                        {
+                            "name": "Leite em pó",
+                            "price": 0.00
+                        },
+                        {
+                            "name": "Coco ralado",
+                            "price": 0.00
+                        },
+                        {
+                            "name": "Granola",
+                            "price": 0.00
+                        },
+                        {
+                            "name": "Banana picada",
+                            "price": 0.00
+                        },
+                        {
+                            "name": "Leite condensado",
+                            "price": 0.00
+                        },
+                        {
+                            "name": "Paçoca",
+                            "price": 0.00
+                        },
+                        {
+                            "name": "Farinha Lacta",
+                            "price": 0.00
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Creme de Açaí",
+            "productTypes": [
+                {
+                    "name": "Tribomba",
+                    "description": "Açaí energético!",
+                    "sizes": [
+                        {
+                            "name": "Padrão",
+                            "price": 12.00
+                        }
+                    ]
+                },
+                {
+                    "name": "Creme de Açaí",
+                    "sizes": [
+                        {
+                            "name": "Padrão",
+                            "price": 10.50
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

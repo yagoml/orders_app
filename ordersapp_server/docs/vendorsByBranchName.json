@@ -1,0 +1,21 @@
+{
+	"vendor_branch_id": "f12f41f8-7a67-42cf-a378-d3a11daa3cf9", // ID da filial
+	"address": "Rua do Caralho",
+	"phone": "(62)3333-6666",
+	"coordinates": null, // String: Coordenadas gg maps
+	"minimum_value": "20.00", // Float: Valor mínimo p/ pedir
+	"delivery_time_min": 20, // Int: Tempo mínimo médio p/ entrega
+	"close": "00:00:00", // Time: Fecha às
+	"open": "15:00:00", // Time: Abre às
+	"delivery_time_max": 40, // Int: Tempo máximo médio p/ entrega
+	"vendor_id": "b6dc6500-ee15-4290-8683-77944216e69", // ID do estabelecimento
+	"city_id": 3665, // Int: ID da cidade
+	"temp_closed": false, // Boolean: Temporariamente fechado?
+	"cnpj": "15.622.828/0001-59", // CPNJ da filial
+	"name": "Eron Soft",
+	"cnpj_main": "15.622.828/0001-59", // CNPJ Geral
+	"email": "eroslindo@gaymail.com",
+	"avatar": "uploads/no-pic.jpg", // Imagem do thumbnail
+	"banner": "uploads/no-pic.jpg",
+	"cpf": "348.202.040-09"
+}
