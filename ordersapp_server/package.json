@@ -16,7 +16,7 @@
     "express": "^4.16.2",
     "formidable": "^1.2.1",
     "pg": "^7.4.1",
-    "pug": "^2.0.0-rc.4"
+    "pug": "^3.0.1"
   },
   "devDependencies": {
     "eslint": "^4.12.0",
